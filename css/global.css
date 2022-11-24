@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    color: #F0EFEF;
+}
+body{
+    background: url('../assets/background.jpg');
+}
